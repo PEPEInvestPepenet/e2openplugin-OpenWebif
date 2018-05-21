@@ -1,0 +1,84 @@
+sourcefiles/js/at.js: line 58, col 14, 'x' is already defined.
+sourcefiles/js/at.js: line 60, col 13, 'sx' is already defined.
+sourcefiles/js/at.js: line 174, col 13, '_datea' is already defined.
+sourcefiles/js/at.js: line 175, col 13, '_da' is already defined.
+sourcefiles/js/at.js: line 289, col 12, ['Save'] is better written in dot notation.
+sourcefiles/js/at.js: line 290, col 12, ['Cancel'] is better written in dot notation.
+sourcefiles/js/at.js: line 380, col 23, ['tags'] is better written in dot notation.
+sourcefiles/js/at.js: line 533, col 9, '_b' is already defined.
+sourcefiles/js/at.js: line 1039, col 21, '_h' is already defined.
+sourcefiles/js/at.js: line 1040, col 21, '_m' is already defined.
+
+sourcefiles/js/bqe.js: line 178, col 37, ['satellites'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 180, col 43, ['service'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 181, col 43, ['name'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 207, col 37, ['services'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 209, col 43, ['servicereference'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 210, col 43, ['servicename'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 235, col 53, ['services'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 236, col 56, ['services'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 246, col 35, ['servicereference'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 247, col 35, ['servicename'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 271, col 38, ['services'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 273, col 54, ['servicereference'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 273, col 81, ['startpos'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 283, col 45, ['services'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 285, col 51, ['servicereference'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 286, col 51, ['servicename'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 313, col 53, ['services'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 314, col 56, ['services'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 335, col 37, ['services'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 337, col 43, ['servicereference'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 338, col 41, ['ismarker'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 339, col 41, ['servicename'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 340, col 49, ['pos'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 341, col 35, ['ismarker'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 348, col 54, ['ismarker'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 661, col 35, ['servicename'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 664, col 45, ['servicename'] is better written in dot notation.
+sourcefiles/js/bqe.js: line 665, col 49, ['servicereference'] is better written in dot notation.
+
+sourcefiles/js/openwebif.js: line 654, col 44, ['disabled'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 743, col 16, You might be leaking a variable (current_ref) here.
+sourcefiles/js/openwebif.js: line 743, col 40, ['currservice_serviceref'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 744, col 19, You might be leaking a variable (current_name) here.
+sourcefiles/js/openwebif.js: line 744, col 44, ['currservice_station'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 751, col 44, ['currservice_begin'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 751, col 86, ['currservice_end'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 754, col 27, ['transcoding'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 761, col 227, ['currservice_fulldescription'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 761, col 278, ['currservice_name'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 765, col 230, ['currservice_fulldescription'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 765, col 281, ['currservice_name'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 767, col 27, ['transcoding'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 768, col 74, ['currservice_filename'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 769, col 76, ['currservice_filename'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 771, col 84, ['currservice_filename'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 774, col 59, ['currservice_name'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 776, col 50, ['currservice_name'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 778, col 41, ['currservice_description'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 794, col 48, ['volume'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 795, col 36, ['volume'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 800, col 23, ['muted'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 812, col 23, ['inStandby'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 818, col 23, ['isRecording'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 819, col 138, ['Recording_list'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 825, col 23, ['inStandby'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 870, col 50, ['message'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 897, col 50, ['message'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 1043, col 18, 'id' is already defined.
+sourcefiles/js/openwebif.js: line 1731, col 29, ['sref'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 1733, col 47, ['begin'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 1734, col 47, ['end'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 1990, col 22, ['servicereference'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 1991, col 23, ['servicename'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 1992, col 77, ['servicename'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 1993, col 24, ['subservices'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 1996, col 26, ['servicereference'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 2000, col 69, ['servicename'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 2002, col 69, ['servicename'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 2004, col 89, ['servicename'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 2042, col 25, ['services'] is better written in dot notation.
+sourcefiles/js/openwebif.js: line 2054, col 27, ['services'] is better written in dot notation.
+
+80 errors
